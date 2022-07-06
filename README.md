@@ -1,6 +1,6 @@
-# Generate certificates for opendistro-app
-[![CircleCI](https://circleci.com/gh/giantswarm/opendistro-certs.svg?style=shield)](https://circleci.com/gh/giantswarm/opendistro-certs)
-[![Docker Repository on Quay](https://quay.io/repository/giantswarm/opendistro-certs/status "Docker Repository on Quay")](https://quay.io/repository/giantswarm/opendistro-certs)
+# Generate certificates for opensearch-app
+[![CircleCI](https://circleci.com/gh/giantswarm/opensearch-certs.svg?style=shield)](https://circleci.com/gh/giantswarm/opensearch-certs)
+[![Docker Repository on Quay](https://quay.io/repository/giantswarm/opensearch-certs/status "Docker Repository on Quay")](https://quay.io/repository/giantswarm/opensearch-certs)
 
 Generates certificates based on [certstrap](https://github.com/square/certstrap) and store them in kubernetes secrets
 
